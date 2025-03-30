@@ -5,7 +5,7 @@ import React from 'react';
 
 const LogoHeader: React.FC = () => {
   return (
-    <header className="py-10 flex justify-center">
+    <header className="pt-1 pb-0 px-[50px] flex justify-center">
       <div className="relative w-[1200px] h-[375px]">
         <Image
           src="/logo.png"

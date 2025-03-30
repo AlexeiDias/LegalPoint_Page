@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactInfo: React.FC = () => {
   return (
-    <section className="px-[50px] py-10 text-gray-800 text-lg max-w-5xl mx-auto">
+    <section className="py-10 px-[50px]  text-gray-800 text-lg max-w-5xl mx-auto">
       <h2 className="text-2xl font-bold mb-4">Contact</h2>
       <p className="mb-2">
         📞 Phone:{' '}
